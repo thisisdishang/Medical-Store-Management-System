@@ -1,0 +1,17 @@
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\bin\Debug\Medical Store Management.exe
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\bin\Debug\Medical Store Management.pdb
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\bin\Debug\Medical Store Management.xml
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\obj\Debug\Medical_Store_Management.Login.resources
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\obj\Debug\Medical_Store_Management.Splash.resources
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\obj\Debug\Medical_Store_Management.Resources.resources
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\obj\Debug\Medical Store Management.vbproj.GenerateResource.Cache
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\obj\Debug\Medical Store Management.exe
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\obj\Debug\Medical Store Management.xml
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\obj\Debug\Medical Store Management.pdb
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\obj\Debug\Medical_Store_Management.Home.resources
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\obj\Debug\Medical_Store_Management.Medicine.resources
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\obj\Debug\Medical_Store_Management.Agent.resources
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\obj\Debug\Medical_Store_Management.Billing.resources
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\obj\Debug\Medical_Store_Management.Manufacturer.resources
+C:\Users\Dishangkumar\Documents\Visual Studio 2008\Projects\Medical Store Management\Medical Store Management\obj\Debug\Medical_Store_Management.Info.resources
